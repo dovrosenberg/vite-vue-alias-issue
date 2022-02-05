@@ -1,0 +1,18 @@
+{
+  "name": "vue-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vite"
+  },
+  "dependencies": {
+    "@vue/compat": "^3.1.0",
+    "vue": "^3.2.29"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.6.1",
+    "@vue/compiler-sfc": "^3.2.29",
+    "vite": "^2.5.4",
+    "vite-plugin-components": "^0.12.2"
+  }
+}
